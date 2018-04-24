@@ -1,0 +1,40 @@
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\bin\Debug\Sistema_Pizzeria.exe.config
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\bin\Debug\Sistema_Pizzeria.exe
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\bin\Debug\Sistema_Pizzeria.pdb
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.csprojResolveAssemblyReference.cache
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmLogin.resources
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmPrincipal.resources
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.Properties.Resources.resources
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.csproj.GenerateResource.Cache
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.exe
+c:\users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.pdb
+C:\Users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmAgregarCliente.resources
+C:\Users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmAgregarPedido.resources
+C:\Users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmCliente.resources
+C:\Users\alan_\onedrive\documentos\visual studio 2015\Projects\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmPedido.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\bin\Debug\Sistema_Pizzeria.exe.config
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.exe
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.pdb
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.csprojResolveAssemblyReference.cache
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmAgregarCliente.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmAgregarPedido.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmCliente.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmLogin.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmPedido.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmPrincipal.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.Properties.Resources.resources
+C:\Users\uriel\Documents\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.csproj.GenerateResource.Cache
+H:\Sistema_Pizzeria\Sistema_Pizzeria\bin\Debug\Sistema_Pizzeria.exe.config
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.exe
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.pdb
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.csprojResolveAssemblyReference.cache
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmAgregarCliente.resources
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmAgregarPedido.resources
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmCliente.resources
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmLogin.resources
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmPedido.resources
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.FrmPrincipal.resources
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.Properties.Resources.resources
+H:\Sistema_Pizzeria\Sistema_Pizzeria\obj\Debug\Sistema_Pizzeria.csproj.GenerateResource.Cache
+H:\Sistema_Pizzeria\Sistema_Pizzeria\bin\Debug\Sistema_Pizzeria.exe
+H:\Sistema_Pizzeria\Sistema_Pizzeria\bin\Debug\Sistema_Pizzeria.pdb
